@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Guild Wars//Holiday Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Guild Wars Annual Holidays
-X-WR-CALDESC:Official Guild Wars holiday schedule (UTC).
+X-WR-CALNAME:Guild Wars Events
+X-WR-CALDESC:Guild Wars Annual Events schedule.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:canthan-new-year@gwcalendar.example
@@ -13,7 +13,7 @@ DTSTART:20260131T200000Z
 DTEND:20260207T200000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Canthan New Year
-DESCRIPTION:Finale: Feb 6, 08:01 UTC\\nHat/Mini Stop: Feb 14, 20:00 UTC
+DESCRIPTION:Finale: Feb 6, 08:01 UTC, Hat/Mini Stop: Feb 14, 20:00 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:lucky-treats-week@gwcalendar.example
@@ -54,7 +54,7 @@ DTSTART:20260627T190000Z
 DTEND:20260704T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🐉 Dragon Festival
-DESCRIPTION:Finale: Jul 1, 09:00 UTC\\nHat/Mini Stop: Jul 11, 19:00 UTC
+DESCRIPTION:Finale: Jul 1, 09:00 UTC, Hat/Mini Stop: Jul 11, 19:00 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:wintersday-july@gwcalendar.example
@@ -96,7 +96,7 @@ DTSTART:20261018T190000Z
 DTEND:20261102T080100Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎃 Halloween
-DESCRIPTION:Finale: Oct 31, 07:01 UTC\\nHat/Mini Stop: Nov 8, 20:00 UTC
+DESCRIPTION:Finale: Oct 31, 07:01 UTC, Hat/Mini Stop: Nov 8, 20:00 UTC
 END:VEVENT
 BEGIN:VEVENT
 UID:special-treats-week@gwcalendar.example
@@ -113,6 +113,7 @@ DTSTART:20261219T200000Z
 DTEND:20270102T200000Z
 RRULE:FREQ=YEARLY;BYMONTH=12
 SUMMARY:🎄 Wintersday
-DESCRIPTION:Finale: Jan 1, 08:01
+DESCRIPTION:Finale: Jan 1, 08:01 UTC, Hat/Mini Stop: Jan 9, 20:00 UTC 
 END:VEVENT
+
 END:VCALENDAR
