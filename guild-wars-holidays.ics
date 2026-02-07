@@ -14,6 +14,7 @@ DTEND:20260207T200000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Canthan New Year
 DESCRIPTION:Activities: Quests, Boardwalk, Dragon Arena, Rollerbeetle Racing; Drops: Lunar Tokens
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Canthan_New_Year
 END:VEVENT
 BEGIN:VEVENT
@@ -24,6 +25,7 @@ DTEND:20260207T080100Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Canthan New Year Finale 🎉
 DESCRIPTION:Finale: Every 3 hours for 27 hours; Hat/Mini Stop: Feb 14, 20:00 UTC
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Canthan_New_Year
 END:VEVENT
 BEGIN:VEVENT
@@ -34,6 +36,7 @@ DTEND:20260321T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🍀 Lucky Treats Week
 DESCRIPTION:Drops: Four-Leaf Clover, Shamrock Ale
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Lucky_Treats_Week
 END:VEVENT
 BEGIN:VEVENT
@@ -44,6 +47,7 @@ DTEND:20260402T070100Z
 RRULE:FREQ=YEARLY
 SUMMARY:🤥 April Fools' Day
 DESCRIPTION:Activities: Quests
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/April_Fools%27_Day
 END:VEVENT
 BEGIN:VEVENT
@@ -54,6 +58,7 @@ DTEND:20260417T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🐰 Sweet Treats Week
 DESCRIPTION:Drops: Chocolate Bunny, Golden Egg
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Sweet_Treats_Week
 END:VEVENT
 BEGIN:VEVENT
@@ -64,6 +69,7 @@ DTEND:20260429T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Anniversary Celebration
 DESCRIPTION:Activities: Boardwalk, Proof of Legend, Dragon Arena, Rollerbeetle racing; Drops: Battle Isle Iced Tea, Birthday Cupcake, Bottle Rocket, Champagne Popper, Delicious Cake, Hard Apple Cider, Honeycomb, Hunter's Ale, Krytan Brandy, Party Beacon, Sparkler, Sugary Blue Drink, Victory Token
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Anniversary_Celebration
 END:VEVENT
 BEGIN:VEVENT
@@ -74,6 +80,7 @@ DTEND:20260704T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🐉 Dragon Festival
 DESCRIPTION:Activities: Quests, Missions, Boardwalk; Drops: Victory Token
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Dragon_Festival
 END:VEVENT
 BEGIN:VEVENT
@@ -84,6 +91,7 @@ DTEND:20260702T070100Z
 RRULE:FREQ=YEARLY
 SUMMARY:🐉 Dragon Festival Finale 🐉
 DESCRIPTION:Finale: Every 2 hours for 24 hours; Hat/Mini Stop: Jul 11, 19:00 UTC
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Dragon_Festival
 END:VEVENT
 BEGIN:VEVENT
@@ -94,6 +102,7 @@ DTEND:20260731T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:❄️ Wintersday in July
 DESCRIPTION:Activities: Dwayna Vs Grenth; Drops: Eggnog, Frosty Tonic, Fruitcake, Mischievous Tonic, Snowman Summoner
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Wintersday_in_July
 END:VEVENT
 BEGIN:VEVENT
@@ -104,6 +113,7 @@ DTEND:20260901T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🧭 Wayfarer's Reverie
 DESCRIPTION:Activities: Quests; Elonian Support Bonus, Extra Luck Bonus, Faction Support Bonus, Northern Support Bonus; Drops: Wayfarer's Mark; Hat/Mini Stop: Sep 8, 19:00 UTC
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Wayfarer%27s_Reverie
 END:VEVENT
 BEGIN:VEVENT
@@ -114,6 +124,7 @@ DTEND:20260920T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🏴‍☠️ Pirate Week
 DESCRIPTION:Drops: Bottle of Grog
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Pirate_Week
 END:VEVENT
 BEGIN:VEVENT
@@ -124,6 +135,7 @@ DTEND:20261101T080100Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎗️ Breast Cancer Awareness Month
 DESCRIPTION:Activities: Pink dye Merchant
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Login_screen_announcements/Archive#Breast_Cancer_Awareness_Month
 END:VEVENT
 BEGIN:VEVENT
@@ -134,6 +146,7 @@ DTEND:20261102T080100Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎃 Halloween
 DESCRIPTION:Activities: Quests, Costume Brawl, Scarred Psyche, Halloween trophy collectors; Drops: Trick-or-Treat Bags
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Halloween
 END:VEVENT
 BEGIN:VEVENT
@@ -144,6 +157,7 @@ DTEND:20261101T070100Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎃 Halloween Finale 🎃
 DESCRIPTION:Finale: Every 3 hours for 27 hours, Hat/Mini Stop: Nov 8, 20:00 UTC
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Halloween
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +167,8 @@ DTSTART:20261121T200000Z
 DTEND:20261128T200000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🥧 Special Treats Week
-DESCRIPTION:Drops: Hard Apple Cider, Slice of Pumpkin Pie.
+DESCRIPTION:Drops: Hard Apple Cider, Slice of Pumpkin Pie
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Special_Treats_Week
 END:VEVENT
 BEGIN:VEVENT
@@ -164,6 +179,7 @@ DTEND:20270102T200000Z
 RRULE:FREQ=YEARLY;BYMONTH=12
 SUMMARY:🎄 Wintersday
 DESCRIPTION:Activities: Quests, Dwayna Vs Grenth, The Great Snowball Fight, Wintersday trophy collectors; Drops: Candy Cane Shard, Eggnog, Frosty Tonic, Fruitcake, Mischievous Tonic, Snowman Summoner
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Wintersday
 END:VEVENT
 BEGIN:VEVENT
@@ -174,6 +190,7 @@ DTEND:20270102T080100Z
 RRULE:FREQ=YEARLY;BYMONTH=12
 SUMMARY:🎄 Wintersday Finale 🎄
 DESCRIPTION:Finale: Every 3 hours for 27 hours, Hat/Mini Stop: Jan 9, 20:00 UTC
+LOCATION: Guild Wars
 URL:https://wiki.guildwars.com/wiki/Wintersday
 END:VEVENT
 END:VCALENDAR
