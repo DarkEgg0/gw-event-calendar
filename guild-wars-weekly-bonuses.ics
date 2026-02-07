@@ -5,7 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Guild Wars Weekly Bonuses
 X-WR-CALDESC:Weekly PvE and PvP bonus rotation. Bonuses change Mondays at 15:00 UTC.
 X-WR-TIMEZONE:UTC
-
 BEGIN:VEVENT
 UID:bonus-week-01
 DTSTAMP:20260101T000000Z
@@ -21,7 +20,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Pantheon | PvP: Heroes' Ascent
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-02
 DTSTAMP:20260101T000000Z
@@ -37,7 +35,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Faction Support | PvP: Codex Arena
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-03
 DTSTAMP:20260101T000000Z
@@ -53,7 +50,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Vanquishing | PvP: Alliance Battle
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-04
 DTSTAMP:20260101T000000Z
@@ -69,7 +65,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Extra Luck | PvP: Random Arenas
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-05
 DTSTAMP:20260101T000000Z
@@ -85,7 +80,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Elonian Support | PvP: Guild Versus Guild
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-06
 DTSTAMP:20260101T000000Z
@@ -101,7 +95,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Bounty | PvP: Competitive Mission
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-07
 DTSTAMP:20260101T000000Z
@@ -117,7 +110,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Factions Elite | PvP: Heroes' Ascent
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-08
 DTSTAMP:20260101T000000Z
@@ -133,7 +125,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Northern Support | PvP: Codex Arena
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-09
 DTSTAMP:20260101T000000Z
@@ -149,7 +140,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Mission | PvP: Alliance Battle
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-10
 DTSTAMP:20260101T000000Z
@@ -165,7 +155,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Pantheon | PvP: Random Arenas
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-11
 DTSTAMP:20260101T000000Z
@@ -181,7 +170,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Faction Support | PvP: Guild Versus Guild
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-12
 DTSTAMP:20260101T000000Z
@@ -197,7 +185,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Vanquishing | PvP: Competitive Mission
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-13
 DTSTAMP:20260101T000000Z
@@ -213,7 +200,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Extra Luck | PvP: Heroes' Ascent
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-14
 DTSTAMP:20260101T000000Z
@@ -229,7 +215,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Elonian Support | PvP: Codex Arena
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-15
 DTSTAMP:20260101T000000Z
@@ -245,7 +230,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Bounty | PvP: Alliance Battle
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-16
 DTSTAMP:20260101T000000Z
@@ -261,7 +245,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Factions Elite | PvP: Random Arenas
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-17
 DTSTAMP:20260101T000000Z
@@ -277,7 +260,6 @@ ACTION:DISPLAY
 DESCRIPTION:GW weekly bonuses active — PvE: Northern Support | PvP: Guild Versus Guild
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bonus-week-18
 DTSTAMP:20260101T000000Z
