@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Guild Wars//Weekly Bonuses//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Guild Wars Weekly Bonuses
-X-WR-CALDESC:Weekly PvE and PvP bonus rotation. Bonuses change Mondays at 15:00 UTC.
+X-WR-CALDESC:WeeklyPvE and PvP bonus rotation. Bonuses change Mondays at 15:00 UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:bonus-week-01
@@ -11,13 +11,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260126T150000Z
 DTEND:20260202T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Pantheon | 🟥 PvP: Heroes' Ascent
+SUMMARY:PvE: Pantheon | PvP: Heroes' Ascent
 DESCRIPTION:PvE: Free passage to the Underworld and the Fissure of Woe | PvP: Double Balthazar faction and Hero title points in Heroes' Ascent
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Pantheon | PvP: Heroes' Ascent
+DESCRIPTION:GW weekly bonuses active - PvE: Pantheon | PvP: Heroes' Ascent
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -26,13 +26,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260202T150000Z
 DTEND:20260209T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Faction Support | 🟥 PvP: Codex Arena
+SUMMARY:PvE: Faction Support | PvP: Codex Arena
 DESCRIPTION:PvE: Double Kurzick and Luxon title track points for exchanging faction  | PvP: Double Balthazar faction and Codex title points in Codex Arena
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Faction Support | PvP: Codex Arena
+DESCRIPTION:GW weekly bonuses active - PvE: Faction Support | PvP: Codex Arena
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -41,13 +41,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260209T150000Z
 DTEND:20260216T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Zaishen Vanquishing | 🟥 PvP: Alliance Battle
+SUMMARY:PvE: Zaishen Vanquishing | PvP: Alliance Battle
 DESCRIPTION:PvE: Double copper Zaishen Coin rewards for Zaishen vanquishes | PvP: Double Balthazar and Imperial faction in Alliance Battles
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Vanquishing | PvP: Alliance Battle
+DESCRIPTION:GW weekly bonuses active - PvE: Zaishen Vanquishing | PvP: Alliance Battle
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -56,13 +56,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260216T150000Z
 DTEND:20260223T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Extra Luck | 🟥 PvP: Random Arenas
+SUMMARY:PvE: Extra Luck | PvP: Random Arenas
 DESCRIPTION:PvE: Keys and lockpicks drop at four times the usual rate and double Lucky and Unlucky title points | PvP: Double Balthazar faction and Gladiator title points in Random Arenas
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Extra Luck | PvP: Random Arenas
+DESCRIPTION:GW weekly bonuses active - PvE: Extra Luck | PvP: Random Arenas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -71,13 +71,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260223T150000Z
 DTEND:20260302T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Elonian Support | 🟥 PvP: Guild Versus Guild
+SUMMARY:PvE: Elonian Support | PvP: Guild Versus Guild
 DESCRIPTION:PvE: Double Sunspear and Lightbringer points  | PvP: Double Balthazar faction and Champion title points in GvG
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Elonian Support | PvP: Guild Versus Guild
+DESCRIPTION:GW weekly bonuses active - PvE: Elonian Support | PvP: Guild Versus Guild
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -86,13 +86,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260302T150000Z
 DTEND:20260309T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Zaishen Bounty | 🟥 PvP: Competitive Mission
+SUMMARY:PvE: Zaishen Bounty | PvP: Competitive Mission
 DESCRIPTION:PvE: Double copper Zaishen Coin rewards for Zaishen bounties | PvP: Double Balthazar and Imperial faction in the Jade Quarry and Fort Aspenwood
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Bounty | PvP: Competitive Mission
+DESCRIPTION:GW weekly bonuses active - PvE: Zaishen Bounty | PvP: Competitive Mission
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -101,13 +101,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260309T150000Z
 DTEND:20260316T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Factions Elite | 🟥 PvP: Heroes' Ascent
+SUMMARY:PvE: Factions Elite | PvP: Heroes' Ascent
 DESCRIPTION:PvE: The Deep and Urgoz's Warren can be entered from Kaineng Center | PvP: Double Balthazar faction and Hero title points in Heroes' Ascent
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Factions Elite | PvP: Heroes' Ascent
+DESCRIPTION:GW weekly bonuses active - PvE: Factions Elite | PvP: Heroes' Ascent
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -116,13 +116,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260316T150000Z
 DTEND:20260323T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Northern Support | 🟥 PvP: Codex Arena
+SUMMARY:PvE: Northern Support | PvP: Codex Arena
 DESCRIPTION:PvE: Double Asura, Deldrimor, Ebon Vanguard, or Norn reputation points  | PvP: Double Balthazar faction and Codex title points in Codex Arena
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Northern Support | PvP: Codex Arena
+DESCRIPTION:GW weekly bonuses active - PvE: Northern Support | PvP: Codex Arena
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -131,13 +131,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260323T150000Z
 DTEND:20260330T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Zaishen Mission | 🟥 PvP: Alliance Battle
+SUMMARY:PvE: Zaishen Mission | PvP: Alliance Battle
 DESCRIPTION:PvE: Double copper Zaishen Coin rewards for Zaishen missions | PvP: Double Balthazar and Imperial faction in Alliance Battles
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Mission | PvP: Alliance Battle
+DESCRIPTION:GW weekly bonuses active - PvE: Zaishen Mission | PvP: Alliance Battle
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -146,13 +146,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260330T150000Z
 DTEND:20260406T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Pantheon | 🟥 PvP: Random Arenas
+SUMMARY:PvE: Pantheon | PvP: Random Arenas
 DESCRIPTION:PvE: Free passage to the Underworld and the Fissure of Woe | PvP: Double Balthazar faction and Gladiator title points in Random Arenas
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Pantheon | PvP: Random Arenas
+DESCRIPTION:GW weekly bonuses active - PvE: Pantheon | PvP: Random Arenas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -161,13 +161,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260406T150000Z
 DTEND:20260413T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Faction Support | 🟥 PvP: Guild Versus Guild
+SUMMARY:PvE: Faction Support | PvP: Guild Versus Guild
 DESCRIPTION:PvE: Double Kurzick and Luxon title track points for exchanging faction | PvP: Double Balthazar faction and Champion title points in GvG
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Faction Support | PvP: Guild Versus Guild
+DESCRIPTION:GW weekly bonuses active - PvE: Faction Support | PvP: Guild Versus Guild
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -176,13 +176,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260413T150000Z
 DTEND:20260420T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Zaishen Vanquishing | 🟥 PvP: Competitive Mission
+SUMMARY:PvE: Zaishen Vanquishing | PvP: Competitive Mission
 DESCRIPTION:PvE: Double copper Zaishen Coin rewards for Zaishen vanquishes | PvP: Double Balthazar and Imperial faction in the Jade Quarry and Fort Aspenwood
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Vanquishing | PvP: Competitive Mission
+DESCRIPTION:GW weekly bonuses active - PvE: Zaishen Vanquishing | PvP: Competitive Mission
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -191,13 +191,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260420T150000Z
 DTEND:20260427T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Extra Luck | 🟥 PvP: Heroes' Ascent
+SUMMARY:PvE: Extra Luck | PvP: Heroes' Ascent
 DESCRIPTION:PvE: Keys and lockpicks drop at four times the usual rate and double Lucky and Unlucky title points | PvP: Double Balthazar faction and Hero title points in Heroes' Ascent
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Extra Luck | PvP: Heroes' Ascent
+DESCRIPTION:GW weekly bonuses active - PvE: Extra Luck | PvP: Heroes' Ascent
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -206,13 +206,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260427T150000Z
 DTEND:20260504T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Elonian Support | 🟥 PvP: Codex Arena
+SUMMARY:PvE: Elonian Support | PvP: Codex Arena
 DESCRIPTION:PvE: Double Sunspear and Lightbringer points | PvP: Double Balthazar faction and Codex title points in Codex Arena
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Elonian Support | PvP: Codex Arena
+DESCRIPTION:GW weekly bonuses active - PvE: Elonian Support | PvP: Codex Arena
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -221,13 +221,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260504T150000Z
 DTEND:20260511T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Zaishen Bounty | 🟥 PvP: Alliance Battle
+SUMMARY:PvE: Zaishen Bounty | PvP: Alliance Battle
 DESCRIPTION:PvE: Double copper Zaishen Coin rewards for Zaishen bounties | PvP: Double Balthazar and Imperial faction in Alliance Battles
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Bounty | PvP: Alliance Battle
+DESCRIPTION:GW weekly bonuses active - PvE: Zaishen Bounty | PvP: Alliance Battle
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -236,13 +236,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260511T150000Z
 DTEND:20260518T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Factions Elite | 🟥 PvP: Random Arenas
+SUMMARY:PvE: Factions Elite | PvP: Random Arenas
 DESCRIPTION:PvE: The Deep and Urgoz's Warren can be entered from Kaineng Center | PvP: Double Balthazar faction and Gladiator title points in Random Arenas
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Factions Elite | PvP: Random Arenas
+DESCRIPTION:GW weekly bonuses active - PvE: Factions Elite | PvP: Random Arenas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -251,13 +251,13 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260518T150000Z
 DTEND:20260525T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Northern Support | 🟥 PvP: Guild Versus Guild
+SUMMARY:PvE: Northern Support | PvP: Guild Versus Guild
 DESCRIPTION:PvE: Double Asura, Deldrimor, Ebon Vanguard, or Norn reputation points | PvP: Double Balthazar faction and Champion title points in GvG
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Northern Support | PvP: Guild Versus Guild
+DESCRIPTION:GW weekly bonuses active - PvE: Northern Support | PvP: Guild Versus Guild
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -266,13 +266,14 @@ DTSTAMP:20260101T000000Z
 DTSTART:20260525T150000Z
 DTEND:20260601T150000Z
 RRULE:FREQ=WEEKLY;INTERVAL=18
-SUMMARY:🟦 PvE: Zaishen Mission | 🟥 PvP: Competitive Mission
+SUMMARY:PvE: Zaishen Mission | PvP: Competitive Mission
 DESCRIPTION:PvE: Double copper Zaishen Coin rewards for Zaishen missions | PvP: Double Balthazar and Imperial faction in the Jade Quarry and Fort Aspenwood
 URL:https://wiki.guildwars.com/wiki/Weekly_bonuses
 BEGIN:VALARM
 TRIGGER:PT0M
 ACTION:DISPLAY
-DESCRIPTION:GW weekly bonuses active — PvE: Zaishen Mission | PvP: Competitive Mission
+DESCRIPTION:GW weekly bonuses active - PvE: Zaishen Mission | PvP: Competitive Mission
 END:VALARM
 END:VEVENT
 END:VCALENDAR
+
