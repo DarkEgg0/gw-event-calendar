@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:anniversary-celebration
 DTSTAMP:20260101T000000Z
 DTSTART:20260422T190000Z
-DTEND:20260429T190000Z
+DTEND:20260506T190000Z
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Anniversary Celebration
 DESCRIPTION:Activities: Boardwalk, Proof of Legend, Dragon Arena, Rollerbeetle racing; Drops: Battle Isle Iced Tea, Birthday Cupcake, Bottle Rocket, Champagne Popper, Delicious Cake, Hard Apple Cider, Honeycomb, Hunter's Ale, Krytan Brandy, Party Beacon, Sparkler, Sugary Blue Drink, Victory Token
