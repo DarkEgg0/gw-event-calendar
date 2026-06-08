@@ -1,11 +1,11 @@
-Hello, I created a two calendars of annual GW events and Weekly bonuses that you can add to your calendar app on **iOS** or **Android**.
+Hello, I created a two calendars of annual Events and Weekly Bonuses that you can add to your calendar app on **iOS** or **Android**.
 * It sync with your timezone
 * You get date events indefinitely
 * In event you can see description of the event and link to gw wiki
 * If I do some update to calender you get it automaticaly
 
-**Guild Wars events:** https://raw.githubusercontent.com/DarkEgg0/gw-event-calendar/refs/heads/main/guild-wars-holidays.ics <br>
-**Weekly Bonuses calendar:** https://raw.githubusercontent.com/DarkEgg0/gw-event-calendar/refs/heads/main/guild-wars-weekly-bonuses.ics
+**Events Calendar:** https://raw.githubusercontent.com/DarkEgg0/gw-event-calendar/refs/heads/main/guild-wars-holidays.ics <br>
+**Weekly Bonuses Calendar:** https://raw.githubusercontent.com/DarkEgg0/gw-event-calendar/refs/heads/main/guild-wars-weekly-bonuses.ics
 
 <table>
 <tr>
@@ -32,6 +32,6 @@ Hello, I created a two calendars of annual GW events and Weekly bonuses that you
 </table>
 
 
-<img width="292" height="633" alt="Untitled" src="https://github.com/user-attachments/assets/d1766d87-1702-4023-8c80-d2bef504aeab" />
-<img width="292" height="633" alt="Untitled1" src="https://github.com/user-attachments/assets/a5c27574-9767-40dc-b186-222c8a02e6c9" />
-<img width="292" height="633" alt="Untitled2" src="https://github.com/user-attachments/assets/07545e55-5466-4669-a7ad-344a1b8adb53" />
+<img width="175" height="379" alt="Untitled" src="https://github.com/user-attachments/assets/d1766d87-1702-4023-8c80-d2bef504aeab" />
+<img width="175" height="379" alt="Untitled1" src="https://github.com/user-attachments/assets/a5c27574-9767-40dc-b186-222c8a02e6c9" />
+<img width="175" height="379" alt="Untitled2" src="https://github.com/user-attachments/assets/07545e55-5466-4669-a7ad-344a1b8adb53" />
